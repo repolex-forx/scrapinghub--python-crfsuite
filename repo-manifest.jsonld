@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/python-crfsuite/commit/d3ee2eba443d5d3b313741bed5076b5a36a840d1",
       "git:hexsha": "d3ee2eba443d5d3b313741bed5076b5a36a840d1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/python-crfsuite/commit/a99f817677d9657ed78fe6a17f8f7210dbee202e",

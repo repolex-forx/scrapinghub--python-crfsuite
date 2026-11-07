@@ -1,0 +1,7 @@
+[2026-11-07T18:03:40Z] === AST ITERATION 1 START | repo=scrapinghub/python-crfsuite sha=d3ee2eba ===
+[2026-11-07T18:03:40Z] [iter=1] PHASE START: ast repo=scrapinghub/python-crfsuite sha=d3ee2eba
+[2026-11-07T18:03:40Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T18:03:45Z] [iter=1] AST chunks built count=1 triples=69564
+[2026-11-07T18:03:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d3ee2eba443d5d3b313741bed5076b5a36a840d1/.complete
+[2026-11-07T18:03:45Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-11-07T18:03:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
