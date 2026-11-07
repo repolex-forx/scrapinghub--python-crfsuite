@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "python-crfsuite",
+  "versions": [
+    {
+      "commit": "d3ee2eba443d5d3b313741bed5076b5a36a840d1",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:05:22.952360+00:00"
+    }
+  ]
+}
